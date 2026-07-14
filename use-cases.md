@@ -1,28 +1,30 @@
 ---
-title: MemoryPlugin use cases
+title: Use cases
 description: How a shared AI memory helps with coding, writing, client work, and decisions - so you stop re-explaining context to every tool.
 ---
 
 # Use cases
 
-A shared memory pays off anywhere you switch between AI tools or come back to a project after a gap. Here are four common ones.
+A shared memory pays off anywhere you switch between AI tools or return to a project after a gap.
 
 ## Coding
 
-Save your stack, conventions, and codebase context once, and every coding assistant - Cursor, Windsurf, Claude Code - starts with it. No more pasting the same architecture notes into each new session.
+Save your stack, conventions, and codebase context once, and every coding assistant - Cursor, Windsurf, Claude Code - starts with it. See [MCP server](integrations/mcp-server.md).
 
 ## Writing
 
-Teach the memory your voice, brand guidelines, and a project's history. Whichever AI you draft in stays on-voice instead of reverting to a generic tone.
+Teach the memory your voice, brand guidelines, and a project's history. Whichever AI you draft in stays on-voice.
 
 ## Client work
 
-Keep each client's preferences and project details in their own bucket. When you switch contexts, the AI has the right details and nothing bleeds across accounts.
+Keep each client's preferences and project details in their own [bucket](features/buckets.md). Switch contexts without details bleeding across accounts.
 
 ## Decisions
 
-Aggregate the pricing debates, trade-offs, and strategic choices you have worked through, so the reasoning is one search away the next time the question resurfaces.
+Aggregate the pricing debates, trade-offs, and strategic choices you have worked through, so the reasoning is one search away next time.
 
-## Next
+## Related
 
-See how to set this up in [Getting started](getting-started.md), or clear up specifics in the [FAQ](faq.md).
+- [Quick setup](getting-started.md)
+- [FAQ](faq.md)
+- Back to [docs home](README.md)
