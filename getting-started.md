@@ -1,33 +1,31 @@
 ---
-title: Getting started with MemoryPlugin
-description: Set up a shared AI memory in three steps - create an account, pick an integration, and start capturing context your AI recalls everywhere.
+title: Quick setup
+description: Set up a shared AI memory in three steps - create an account, connect an integration, and capture context your AI recalls across every tool.
 ---
 
-# Getting started
+# Quick setup
 
-You can be up and running in about five minutes. There are three steps: create an account, connect an integration, and save your first memory.
+You can be running in a few minutes. Three steps: create an account, connect an integration, save your first memory.
 
 ## 1. Create your account
 
-Register to get your dashboard and an authentication token. Your MemoryPlugin sign-in email does not need to match the email you use on ChatGPT, Claude, TypingMind, or any other platform - the memory layer is yours regardless of where you use it.
+Register to get your dashboard and an authentication token. Your MemoryPlugin sign-in email does not need to match the email you use on ChatGPT, Claude, TypingMind, or any other platform.
 
 ## 2. Choose an integration
 
-Pick how you want MemoryPlugin to reach your AI:
+Pick how MemoryPlugin reaches your AI:
 
-- **Browser extension** - for ChatGPT, Claude, Gemini, and 21+ web tools.
-- **MCP server** - for Claude Desktop, Cursor, and Windsurf.
-- **Custom GPT** - if you work inside ChatGPT.
-- **TypingMind plugin** - start immediately, no extra setup.
-
-See [Integrations](integrations.md) for the full comparison.
+- [Browser extension](integrations/browser-extension.md) - ChatGPT, Claude, Gemini, and 21+ web tools.
+- [MCP server](integrations/mcp-server.md) - Claude Desktop, Cursor, Windsurf.
+- [Custom GPT & TypingMind](integrations/custom-gpt-and-typingmind.md).
+- [Open API](integrations/api.md) - build on the memory layer.
 
 ## 3. Save your first memory
 
-How you capture depends on the integration: browser-extension users click the MemoryPlugin button to save and inject memories; MCP users simply ask the AI to remember something; TypingMind users are ready out of the box.
+How you capture depends on the integration: browser-extension users click the MemoryPlugin button; MCP users ask the AI to remember something; TypingMind users are ready out of the box.
 
-**Expected result:** save one fact - say, your preferred coding conventions - in one tool, then open a different AI and ask a related question. The context comes with you, without you re-typing it.
+**Expected result:** save one fact in one tool, open a different AI, ask a related question - the context comes with you, without re-typing.
 
 ## Next
 
-Learn what else the memory can do in [Use cases](use-cases.md), or check the [FAQ](faq.md).
+See what the memory can do in [use cases](use-cases.md), or check the [FAQ](faq.md).

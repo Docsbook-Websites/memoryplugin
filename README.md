@@ -1,22 +1,27 @@
 ---
 title: MemoryPlugin Documentation
-description: One shared memory across ChatGPT, Claude, Gemini and 21+ AI tools. Teach your AI once, and it remembers everywhere you work.
+description: One shared memory across ChatGPT, Claude, Gemini and 21+ AI tools. Teach your AI once and it remembers everywhere - memories, chat history, and file search.
 ---
 
 # One memory for every AI you use
 
-Your AI tools are capable, but each one starts every conversation from zero. You re-explain your stack, your writing voice, your clients, your preferences - over and over, in every tool. MemoryPlugin gives you a single memory layer that follows you across ChatGPT, Claude, Gemini, Cursor, and 21+ other tools. Teach it once; every AI recalls it.
+AI tools like ChatGPT and Claude forget everything between conversations. MemoryPlugin fixes that: it stores what matters and hands it back in whichever AI you open. One memory, every AI - across ChatGPT, Claude, Gemini, Cursor, and 21+ other tools.
 
-## What you get
+## What you can store
 
-- **One memory, shared everywhere** - facts you save in one tool surface automatically in all the others, not siloed per app.
-- **Editable, discrete memories** - each memory is a thing you can read, edit, or delete, not an opaque auto-summary you can't inspect.
-- **Your full chat history, searchable** - import past conversations from ChatGPT, Claude, and more, then search them in plain language.
-- **Works where you already work** - a browser extension, an MCP server, a Custom GPT, and an open API cover web, desktop, and coding agents.
+- **Memories** - facts, preferences, and context your AI recalls in any conversation.
+- **Chat history** - your past conversations from ChatGPT, Claude, and more, searchable in one place.
+- **Files** - PDFs and documents you can query alongside your memories.
 
 ## Start here
 
-- New to MemoryPlugin? Read [How it works](concepts.md) to understand the memory model.
-- Ready to set up? Follow [Getting started](getting-started.md) for a five-minute first win.
-- Picking an integration? Compare them in [Integrations](integrations.md).
-- Want to see it in context? Browse [Use cases](use-cases.md).
+- [Quick setup](getting-started.md) - create an account, pick an integration, be running in minutes.
+- [How it works](concepts.md) - the memory model, injection and recall, and how tokens are spent.
+- [Supported platforms](platforms.md) - the full compatibility matrix for 21+ AI tools.
+- [Integrations](integrations/browser-extension.md) - browser extension, MCP server, Custom GPT, TypingMind, and API.
+
+## Explore the docs
+
+- **Integrations** - [browser extension](integrations/browser-extension.md), [MCP server](integrations/mcp-server.md), [Custom GPT & TypingMind](integrations/custom-gpt-and-typingmind.md), [open API](integrations/api.md)
+- **Features** - [Smart Memory](features/smart-memory.md), [buckets](features/buckets.md), [chat history](features/chat-history.md), [Ask](features/ask.md)
+- **Reference** - [supported platforms](platforms.md), [use cases](use-cases.md), [FAQ](faq.md)
